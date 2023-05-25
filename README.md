@@ -4,4 +4,4 @@ Projeto Santander Full Stack
 
 * Comando git push
 * Comando git pull
-*
+* Comando git fetch
