@@ -3,3 +3,5 @@ Projeto Santander Full Stack
 ## Saints
 
 * Comando git push
+* Comando git pull
+*
